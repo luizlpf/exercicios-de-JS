@@ -1,5 +1,5 @@
 var button = document.querySelector('.button');
-var n = 2;
+var n = 5;
 
 button.addEventListener('click', function () {
   descubra();
